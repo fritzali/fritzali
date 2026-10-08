@@ -7,5 +7,5 @@ Blog: [fritzali.de](https://fritzali.github.io)
 
 ORCID: [0009-0007-6155-2756](https://orcid.org/0009-0007-6155-2756)
 
-EMJM MASS: [[site]](https://www.master-mass.eu/) [[repo]](https://github.com/fritzali/mass)
-BlackHoleWeather: [[repo](https://github.com/fritzali/bhw)]
+EMJM MASS: [[site]](https://www.master-mass.eu/) [[repo]](https://github.com/fritzali/mass)\
+BlackHoleWeather: [[repo]](https://github.com/fritzali/bhw)
